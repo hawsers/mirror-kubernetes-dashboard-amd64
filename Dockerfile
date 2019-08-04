@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.4.0-beta2
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.5.0-beta1
